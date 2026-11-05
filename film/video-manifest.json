@@ -1,0 +1,26 @@
+{
+  "title": "Balearic Trance Melodies",
+  "study": "z2701",
+  "bpm": 138,
+  "source_audio": "preview/balearic-trance-melodies-simple-synth-preview.mp3",
+  "source_audio_sha256": "f19bd8a1457f897943d18b47e648decb64b205e5d73d6fb8c81eec0026a61878",
+  "source_midi": "midi/z2701-balearic-trance-melodies-opening/z2701-balearic-trance-melodies-opening-combined.mid",
+  "source_midi_sha256": "a71f7a05472aeca58708274363b79b788286e3f31accee709b068e2251dde0c2",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "a40dbdfa1166a6c29de3d7ecd82a8a1d44e27e060778d8ce594046a0c832fe5c",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "c5427d06b80ca072e9c81ad835e79bec652fd53fed71afb1211433cfee55f0f5",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "06d2904bacb2569b6563e32216add5ce74c271f1822700b9834c681adb28d6d8",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

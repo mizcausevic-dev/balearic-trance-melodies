@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/balearic-trance-melodies-simple-synth-preview.mp3",
+  "preview_sha256": "f19bd8a1457f897943d18b47e648decb64b205e5d73d6fb8c81eec0026a61878",
+  "source_midi_path": "midi/z2701-balearic-trance-melodies-opening/z2701-balearic-trance-melodies-opening-combined.mid",
+  "source_midi_sha256": "a71f7a05472aeca58708274363b79b788286e3f31accee709b068e2251dde0c2",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z2701",
+    "start_seconds": 0,
+    "end_seconds": 55.652
+  },
+  "measurement": {
+    "sample_peak": 0.110259,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

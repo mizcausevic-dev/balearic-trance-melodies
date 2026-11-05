@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:59.375769+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z2701-balearic-trance-melodies-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "bc8585c6f335109d22cb9192cc7a859329bb32cac6bf301dbf016a6b3cda7b40",
+      "errors": []
+    },
+    {
+      "path": "midi/z2701-balearic-trance-melodies-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e13ffb51c6f7fd604a0b349a5512b0302733e55fc30dff6b492f85cd98de6dca",
+      "errors": []
+    },
+    {
+      "path": "midi/z2701-balearic-trance-melodies-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2701-balearic-trance-melodies-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "70efd94d268e1e5e69a7a6d2f6b97138885f96f609f29972c647279f907be689",
+      "errors": []
+    },
+    {
+      "path": "midi/z2701-balearic-trance-melodies-opening/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "c716c217852c2a234763b4044b5b8a29e75c49bcfec66104217c904870634d87",
+      "errors": []
+    },
+    {
+      "path": "midi/z2701-balearic-trance-melodies-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "28e53048e5e6447667fa49caf036a93b288102d96e0b5776d0914bff23cae64a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2701-balearic-trance-melodies-opening/z2701-balearic-trance-melodies-opening-combined.mid",
+      "bytes": 6029,
+      "sha256": "a71f7a05472aeca58708274363b79b788286e3f31accee709b068e2251dde0c2",
+      "errors": []
+    },
+    {
+      "path": "midi/z2702-balearic-trance-melodies-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "a0ad5818a17d1aefc4829035d273300a320007b9e687b787c49f0869cc71b861",
+      "errors": []
+    },
+    {
+      "path": "midi/z2702-balearic-trance-melodies-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "df2616f6a1e2c6bedee83bb96f9ddaf4bf6ec35b4970266c07151072f551095e",
+      "errors": []
+    },
+    {
+      "path": "midi/z2702-balearic-trance-melodies-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2702-balearic-trance-melodies-variation/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "102f201e8fa5ea0ff688d1a39f0ab7f493bf41479e383222fcdc55c470b9de47",
+      "errors": []
+    },
+    {
+      "path": "midi/z2702-balearic-trance-melodies-variation/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "ddc9b0ef8b7d62e46a5684431653835d44c27ac5ef58d92640ab1ff1b428b02b",
+      "errors": []
+    },
+    {
+      "path": "midi/z2702-balearic-trance-melodies-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "0e56ca37c7d8d9511dedca90f5595fc6fb73cef55195c76bd83c56bbac205b73",
+      "errors": []
+    },
+    {
+      "path": "midi/z2702-balearic-trance-melodies-variation/z2702-balearic-trance-melodies-variation-combined.mid",
+      "bytes": 6029,
+      "sha256": "7b8db148202d94e6f867bd965e094074fceb822e6d571bde3f2d33b146e6d5cd",
+      "errors": []
+    },
+    {
+      "path": "midi/z2703-balearic-trance-melodies-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "708c8df1adbc7123104a317244188ee44c07892cf204a5eb785a63c8111675e6",
+      "errors": []
+    },
+    {
+      "path": "midi/z2703-balearic-trance-melodies-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "016e2698e69ed4c3ca74838076dc7b3b633fefbb55a6447018437500d3518773",
+      "errors": []
+    },
+    {
+      "path": "midi/z2703-balearic-trance-melodies-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2703-balearic-trance-melodies-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "7bf01b3033f90b6c0e1cef24cbaa5898bbd866fec7160831f7d1849367c4ef3a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2703-balearic-trance-melodies-contrast/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "d8ecd567440c5f74fb2b77e9687401d621859b608ab3ad56bfd5bcd15e0870c6",
+      "errors": []
+    },
+    {
+      "path": "midi/z2703-balearic-trance-melodies-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "87183d36ffe9473f89f02e6bb970d228d8fbf3c0c06979e9bd599c7822527cc3",
+      "errors": []
+    },
+    {
+      "path": "midi/z2703-balearic-trance-melodies-contrast/z2703-balearic-trance-melodies-contrast-combined.mid",
+      "bytes": 5995,
+      "sha256": "298ca7f22785b18f205ab3f05e286e0028bec7555cb3ccf9e14709d4b1e2a410",
+      "errors": []
+    },
+    {
+      "path": "midi/z2704-balearic-trance-melodies-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "89bb1e59db53c5b932b9bc1cd649571792e4ccf02dcd6d0e6d251fa1e25c297d",
+      "errors": []
+    },
+    {
+      "path": "midi/z2704-balearic-trance-melodies-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "bec5a1d7c13ffe8ad4e23e2fe1774c2b40895188d8526c680c6458da55b29b5b",
+      "errors": []
+    },
+    {
+      "path": "midi/z2704-balearic-trance-melodies-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "60eb52b28f2ecb8deb644a023c70958dc4c6d18d2664c337ce8f4da0b975c12a",
+      "errors": []
+    },
+    {
+      "path": "midi/z2704-balearic-trance-melodies-return/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "0139e91cd49845c2f93f339643aef4b2230e20e62a1fa405fa62b171e25cace0",
+      "errors": []
+    },
+    {
+      "path": "midi/z2704-balearic-trance-melodies-return/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "23ef73f0335ec189add6d615b113ed6d386f61dd9b0b439cf91aaa06802d60ea",
+      "errors": []
+    },
+    {
+      "path": "midi/z2704-balearic-trance-melodies-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ceee1b184231de35e4a7e317e6ee99fb90b8b899820143e1721060ff6c9ea2b7",
+      "errors": []
+    },
+    {
+      "path": "midi/z2704-balearic-trance-melodies-return/z2704-balearic-trance-melodies-return-combined.mid",
+      "bytes": 5995,
+      "sha256": "43beffa7997597f7a14e5db36b4932af6e27fa3b0c06c103976be0103bbc5372",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
