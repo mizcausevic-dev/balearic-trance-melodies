@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/balearic-trance-melodies-midi.zip",
-      "bytes": 31896,
-      "sha256": "02a6e81e138faf5a6e4b40c59e6cefbc441c93ea89848f4c24067a4a17cf4eef"
+      "bytes": 32883,
+      "sha256": "ce2712651df6482d9a0b5e2ac07585eed5bc4e55bd561775f522497c2e4db344"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10020,
-      "sha256": "46962107edcaa57633bbd6e6b1fe07a0f9827eeca3f1db5eee7ee6f8b2437687"
+      "bytes": 10210,
+      "sha256": "466b84d43e4378ecb9cb0e61014e7258dd8c7b5b829a0cf9d05c469b83e7c60f"
     },
     {
       "path": "midi/z2701-balearic-trance-melodies-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "43beffa7997597f7a14e5db36b4932af6e27fa3b0c06c103976be0103bbc5372"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/balearic-trance-melodies-simple-synth-preview.mp3",
       "bytes": 1349216,
       "sha256": "f19bd8a1457f897943d18b47e648decb64b205e5d73d6fb8c81eec0026a61878"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3995,
-      "sha256": "100438b0c107ed186251f68f4a58b2e848d5c2f17726bc8f6e25d793b65cfbdc"
+      "bytes": 4110,
+      "sha256": "b90aa2fb3fc249884527f9a16c234e2433a39bf5a7a55b977866fbae03abfda9"
     },
     {
       "path": "social/instagram/caption.txt",
